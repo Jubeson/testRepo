@@ -30,7 +30,7 @@ rebase4
 Delet this line
 Delete this line 2
 
-
+This is a good cherry1
 
 
 This is a bad cherry
